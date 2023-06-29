@@ -94,6 +94,7 @@ Having successfully completed two distinct internships in the domain of computer
 1. [3D Computer Vision: Efficient Methods and Applications](https://link.springer.com/book/10.1007/978-1-4471-4150-1)
 2. [Richard Hartley and Andrew Zisserman - Multiple View Geometry in Computer Vision](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf)
 3. [An Invitation to 3-D Vision: From Images to Geometric Models](https://link.springer.com/book/10.1007/978-0-387-21779-6)
+4. [Introduction to Visual SLAM: From Theory to Practice](https://www.amazon.com/Introduction-Visual-SLAM-Theory-Practice/dp/9811649383)
 
 ### Courses
 I couldn't find any courses that includes topic of 3D Computer Vision
