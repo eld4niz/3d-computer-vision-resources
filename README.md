@@ -103,4 +103,4 @@ I couldn't find any courses that includes topic of 3D Computer Vision
 2. [Andrej Karpathy](https://karpathy.ai/)
 
 ## Conclusion
-I'll try to update this file whenever I find interesting the area of 3D Computer Vision or Deep Learning. 
+I'll try to update this file whenever I find interesting resources in the area of 3D Computer Vision or Deep Learning. 
